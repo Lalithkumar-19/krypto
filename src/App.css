@@ -15,7 +15,7 @@ body {
 }
 
 @utility primary-button {
-  @apply w-64 h-20 bg-indigo-400 rounded-[83px];
+  @apply w-64 h-20 bg-indigo-400 rounded-[83px] cursor-pointer;
 }
 
 @utility secondary-button {
@@ -29,5 +29,5 @@ body {
 @theme {
   --color-bg-page: #000035;
   --color-bg-featured-card: #17144c;
-  --color-testimonial-card: #29235D;
+  --color-testimon:['Righteous', 'sans-serif']
 }
