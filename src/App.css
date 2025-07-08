@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+body {
+  background-color: #000035;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+@utility main-heading {
+  @apply w-full h-fit justify-start text-white text-8xl font-bold font-['Outfit'] capitalize leading-[87px];
+}
+
+@utility body-text {
+  @apply w-96 justify-center text-white text-lg font-normal font-['Roboto'] leading-7;
+}
+
+@utility primary-button {
+  @apply w-64 h-20 bg-indigo-400 rounded-[83px];
+}
+
+@utility secondary-button {
+  @apply w-80 h-20 px-5 py-6 bg-neutral-950 rounded-[83px] inline-flex justify-center items-center gap-2.5;
+}
+
+@utility card {
+  @apply bg-gradient-to-br from-indigo-400 to-emerald-200 rounded-[30px];
+}
+
+@theme {
+  --color-bg-page: #000035;
+  --color-bg-featured-card: #17144c;
+  --color-testimonial-card: #29235D;
+}
