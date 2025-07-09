@@ -1,6 +1,6 @@
 # Krypto NFT Landing Page
 
-![Project Preview](https://i.imgur.com/JKQyZ1P.png)
+![Project Preview](https://i.ibb.co/TxTC4rZN/image.png)
 
 Modern responsive NFT marketplace built with React and Tailwind CSS.
 
@@ -10,7 +10,7 @@ Modern responsive NFT marketplace built with React and Tailwind CSS.
 ## Quick Start
 
 ```bash
-git clone 
+git clone https://github.com/Lalithkumar-19/krypto.git
 cd krypto
 npm install
 npm start
