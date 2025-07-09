@@ -1,12 +1,28 @@
-# React + Vite
+# Krypto NFT Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Preview](https://i.imgur.com/JKQyZ1P.png)
 
-Currently, two official plugins are available:
+Modern responsive NFT marketplace built with React and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Design Reference
+[View Figma Design](https://www.figma.com/design/ya0v3TXrPviylef6aV9CEw/landing-page-design?node-id=0-1&p=f&t=vCupWaCUJVlHyD9R-0)
 
-## Expanding the ESLint configuration
+## Quick Start
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone 
+cd krypto
+npm install
+npm start
+```
+## Open in browser:
+http://localhost:5173
+## Tech Stack
+React.js
+Tailwind CSS
+## Figma for desiging
+License
+MIT License
+
+
+
