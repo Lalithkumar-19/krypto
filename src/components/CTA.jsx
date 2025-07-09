@@ -12,7 +12,7 @@ const CTA = () => {
             </div>
 
             {/* Get Started Button */}
-            <button className="w-80 h-20 px-5 py-6 bg-neutral-950 rounded-[83px] flex items-center justify-center gap-2.5 hover:bg-neutral-900 transition-colors">
+            <button className="w-80 cursor-pointer h-20 px-5 py-6 bg-neutral-950 rounded-[83px] flex items-center justify-center gap-2.5 hover:bg-neutral-900 transition-colors">
                 <span className="text-white text-2xl font-semibold font-roboto uppercase leading-7">
                     Get Started
                 </span>

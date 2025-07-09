@@ -15,7 +15,7 @@ const Testimonials = () => {
                 <Card image="/images/pic1.png" name="Olivia Cole" />
                 <Card image="/images/pic2.png" name="Evan White" />
                 <Card image="/images/pic3.png" name="Jessica Page" />
-                {/* Add more cards as needed */}
+            
             </div>
         </section>
     );

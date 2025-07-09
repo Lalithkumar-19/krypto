@@ -7,7 +7,7 @@ body {
 }
 
 @utility main-heading {
-  @apply w-full h-fit justify-start text-white text-8xl font-bold font-['Outfit'] capitalize leading-[87px];
+  @apply w-full h-fit justify-start text-white md:text-8xl text-4xl font-bold font-['Outfit'] capitalize md:leading-[87px];
 }
 
 @utility body-text {

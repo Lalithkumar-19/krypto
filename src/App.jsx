@@ -10,7 +10,7 @@ import PlatformAccess from "./components/PlatformAccess";
 import Testimonials from "./components/Testimonials";
 const App = () => {
   return (
-    <div className="flex flex-col px-30 items-center justify-center bg-bg-page ">
+    <div className="flex flex-col md:px-30 px-3 items-center justify-center bg-bg-page overflow-x-hidden ">
       <Navbar />
       <Hero />
       <Featured />
