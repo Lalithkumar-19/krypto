@@ -4,7 +4,7 @@ import Analytics from "./components/Analytics";
 import CTA from "./components/CTA";
 import Featured from "./components/Featured";
 import Footer from "./components/Footer";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import PlatformAccess from "./components/PlatformAccess";
 import Testimonials from "./components/Testimonials";
